@@ -1,6 +1,6 @@
 package com.personalproject.spellingbee;
 
 public class Word {
-    private int wordId;
+    private Long wordId;
     private String correctWord;
 }
