@@ -1,4 +1,4 @@
-package com.personalproject.spellingbee;
+package com.personalproject.spellingbee.model;
 
 public class Word {
     private Long wordId;
